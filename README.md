@@ -1,6 +1,6 @@
 # passwordGenerator
 
-**[Test this app yourself](github.io)**
+**[Test this app yourself](https://vincenzoarena.github.io/passwordGenerator/)**
 
 ---
 
